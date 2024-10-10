@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+  <bug>
+    <Num name="1">
+      <Title> Bug Title </Title>
+      <Severity> Major </Severity>
+      <Steps> 1. Step; 2. Step </Steps>
+      <ExpectedResult> text </ExpectedResult>
+      <ActualResult> text </ActualResult>
+      <Enviroment> win 11, chrome 107 </Enviroment>
+      <Comment> text </Comment>
+    </Num>
+  </bug>
